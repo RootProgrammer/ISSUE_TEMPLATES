@@ -10,7 +10,6 @@ assignees: ''
 
 Thank you for reporting a bug! Use this template to provide clear and concise information to help resolve the issue.
 
-- Refer to our [How To Create Good Issues](https://github.com/pnp/powerfx-samples/wiki/How-to-Create-Good-Issues).
 - Include all required details; incomplete reports will be flagged and closed.
 - Mention sample authors for visibility. Issues without mentions may not get addressed.
 - Pull requests are welcome if you have a solution in mind!
